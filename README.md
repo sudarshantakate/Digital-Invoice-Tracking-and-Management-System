@@ -39,13 +39,13 @@ GitHub
 
 ## 📸 Application Overview
 ### 🏠 Main Page
-![Main Page](Assets/main page.png)
+![Main Page](Assets/main%20page.png)
 
 ### ➕ Adding Invoice Data
-![Adding Data](Assets/adding data.png)
+![Adding Data](Assets/adding%20data.png)
 
 ### ✅ Mark Invoice Done
-![Mark Done](Assets/mark done.png)
+![Mark Done](Assets/mark%20done.png)
 
 ### 🗄️ SQL Database
-![SQL Database](Assets/sql database.png)
+![SQL Database](Assets/sql%20database.png)
